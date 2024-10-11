@@ -15,3 +15,6 @@ Raw data: Train over the US predict globally
 Fine tuning using the stations over regions of interest
 
 Test different models to select the best model + metrics for extreme precipitation 
+
+Download IMERG: https://github.com/manmeet3591/download_imerg
+Download NOAA AORC: https://github.com/manmeet3591/download_noaa_aorc
